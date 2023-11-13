@@ -34,7 +34,7 @@
 
 
 <ul>
-  <li>shadowsocks-libev_3.3.5-1_mipsel_24kc.ipk</li>
+  <li>[shadowsocks-libev_3.3.5-1_arm_cortex-a7.ipk](shadowsocks-libev_3.3.5-1_arm_cortex-a7.ipk)</li>
   <li>shadowsocks-libev-server_3.3.5-1_mipsel_24kc.ipk</li>
   <li>ChinaDNS_1.3.3-1_mipsel_24kc.ipk</li>
   <li>dns-forwarder_1.2.1-2_mipsel_24kc.ipk</li>
