@@ -32,17 +32,13 @@
 
 <h2 id="相关的ipk软件包下载地址"><span class="me-2">相关的ipk软件包下载地址</span><a href="#相关的ipk软件包下载地址" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
 
-
-<ul>
-  <li>[shadowsocks-libev_3.3.5-1_arm_cortex-a7.ipk](shadowsocks-libev_3.3.5-1_arm_cortex-a7.ipk)</li>
-  <li>shadowsocks-libev-server_3.3.5-1_mipsel_24kc.ipk</li>
-  <li>ChinaDNS_1.3.3-1_mipsel_24kc.ipk</li>
-  <li>dns-forwarder_1.2.1-2_mipsel_24kc.ipk</li>
-  <li>luci-compat</li>
-  <li>luci-app-shadowsocks-without-ipset_1.9.1-1_all.ipk</li>
-  <li>luci-app-chinadns_1.6.2-1_all.ipk</li>
-  <li>luci-app-dns-forwarder_1.6.2-1_all.ipk</li>
-</ul>
+[shadowsocks-libev_3.3.5-1_arm_cortex-a7.ipk](shadowsocks-libev_3.3.5-1_arm_cortex-a7.ipk)  
+shadowsocks-libev-server_3.3.5-1_mipsel_24kc.ipk  
+ChinaDNS_1.3.3-1_mipsel_24kc.ipk  
+dns-forwarder_1.2.1-2_mipsel_24kc.ipk   
+luci-app-shadowsocks-without-ipset_1.9.1-1_all.ipk  
+luci-app-chinadns_1.6.2-1_all.ipk  
+luci-app-dns-forwarder_1.6.2-1_all.ipk  
 
 <h3 id="openwrt-shadowsocks"><span class="me-2">openwrt-shadowsocks</span><a href="#openwrt-shadowsocks" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 <p><strong>GitHub</strong>: https://github.com/shadowsocks/openwrt-shadowsocks  <br>
