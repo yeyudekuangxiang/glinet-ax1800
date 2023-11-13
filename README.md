@@ -99,6 +99,13 @@
       <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
 </pre></td><td class="rouge-code"><pre>opkg install luci-compat
 </pre></td></tr></tbody></table></code></div></div>
+
+### 先更新luci 否则可能会出现/usr/lib/lua/luci/dispatcher.lua:1374: module 'luci.cbi' not found:报错
+```
+opkg update
+opkg install luci luci-base luci-compat
+```
+
 <h2 id="config"><span class="me-2">Config</span><a href="#config" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
 
 <h3 id="方式一-使用luci来配置"><span class="me-2">方式一, 使用luci来配置</span><a href="#方式一-使用luci来配置" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
